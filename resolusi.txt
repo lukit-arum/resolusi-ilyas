@@ -21,3 +21,7 @@ jjk
 *pull request meminta pemilik repo untuk mengambil perubahan yang telah dilakukan agar pemilik repo atau master branch menarik perubahan kita 
 *merge untuk menggabungkan 2 buah branch
 *merge conflict baris yang sama di ubah oleh 2 branch yang berbeda
+
+*ini juga adalah baris yang akan di tambahkan pada branch 
+*baris 4
+*baris 5
