@@ -1,8 +1,17 @@
 RESOLUSI TAHUN DEPAN
 -belajar lebih baik 
+*lebih2 baik lagi
+*lebih2 baik lagik
+*dan lebih2 baik lagi
 -belajar coding lebih giat lagi
 -belajar ngaji
 -buat aplikasi sederhana untuk laporan keuangan
 -cari kerja
 -ingin mengahasilkan lebih banyak uang
 -memanfaatkan pertanian
+-baris baru
+
+
+commit untuk menyimpan perubahan pada git baik di main/masterbranch atau branch lain
+
+jjk
