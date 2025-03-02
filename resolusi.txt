@@ -15,3 +15,9 @@ RESOLUSI TAHUN DEPAN
 commit untuk menyimpan perubahan pada git baik di main/masterbranch atau branch lain
 
 jjk
+
+*branch adalah jalur development bebas dari commit
+*checkout berpindah ke branch atau commit yang lain
+*pull request meminta pemilik repo untuk mengambil perubahan yang telah dilakukan agar pemilik repo atau master branch menarik perubahan kita 
+*merge untuk menggabungkan 2 buah branch
+*merge conflict baris yang sama di ubah oleh 2 branch yang berbeda
